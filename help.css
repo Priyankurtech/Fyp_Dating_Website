@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.help-info {
+    width: auto;
+    height: 800px;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: center;
+    background-image: url(toa-heftiba-_UIVmIBB3JU-unsplash.jpg);
+    background-size: cover;
+}
+
+.help-info p {
+    margin-bottom: 10px;
+}
